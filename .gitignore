@@ -1,0 +1,44 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+*.egg-info/
+
+# Java
+*.class
+*.jar
+*.war
+*.iml
+
+# Go
+bin/
+*.exe
+*.test
+*.out
+
+# Node.js (in case you experiment with JS/TS)
+node_modules/
+dist/
+*.log
+
+# Misc backups
+*.bak
+*.tmp
+*.old
+
+# Lo
