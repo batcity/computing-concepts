@@ -21,7 +21,7 @@ else
 
     # install dependencies
     echo "📥 Installing dependencies (PySpark + JupyterLab)..."
-    pip install rsa
+    pip install rsa flask requests
 
     echo "🎉 Setup complete!"
 fi
